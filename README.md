@@ -1,3 +1,19 @@
 # first-pwa-app
 
-### Content is automatically generated
+### learning pwa
+
+### play
+
+#### first
+
+```
+npm i
+```
+
+#### second
+
+```
+npm start
+```
+
+#### open chrome application panel and see
